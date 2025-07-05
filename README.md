@@ -2,7 +2,7 @@
 
 A modern, responsive web application for tracking personal finances built with Next.js, React, and TypeScript. Features beautiful UI components, interactive charts, and comprehensive transaction management.
 
-![Personal Finance Tracker](https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=1200&h=600&fit=crop)
+![Personal Finance Tracker]
 
 ## ✨ Features
 
